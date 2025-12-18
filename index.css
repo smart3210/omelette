@@ -1,0 +1,42 @@
+body{
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: small;
+    
+}
+.hello{
+background-color: white;
+width: 400px;
+box-sizing: border-box;
+padding: 20px;
+border-radius: 15px;
+
+}
+img{
+    height: auto;
+    width: 360px;
+}
+.div1{
+    background-color: rgba(230, 214, 217, 0.57);
+    padding: 1rem;
+}
+table,td{
+border: 1px solid;
+border-collapse: collapse;
+border:1px solid rgb(211, 205, 205);
+border-top: none;
+border-left: none;
+border-right: none;
+
+}
+table{
+    width: 300px;
+}
+
+ 
+ 
+
+ 
